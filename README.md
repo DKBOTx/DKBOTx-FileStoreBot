@@ -1,4 +1,4 @@
-# FILE SHARING BOT From DK BOTx
+# FILE SHARING BOT 
 
 
 
@@ -22,7 +22,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 - Add bot to ForceSub channel as Admin with Invite Users via Link Permission if you enabled ForceSub 
 
 ##
-### Installation
+### THANKS FOR YOUR SUPPORT
 #### Deploy on Heroku
 **BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE**<br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
