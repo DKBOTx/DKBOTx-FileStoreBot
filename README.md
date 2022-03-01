@@ -1,4 +1,4 @@
-# DK BOTx FileShare Bot
+# FILE SHARING BOT From DK BOTx
 
 
 
@@ -28,7 +28,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 
 
-**Check Out [AUTOFILTERBOT](https://t.me/sm_autofilter_bot)**
+**Check Out [TESSA](https://t.me/sm_autofilter_bot)**
 
 
 #### Deploy in your VPS
