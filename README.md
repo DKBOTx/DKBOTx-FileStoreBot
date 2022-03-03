@@ -33,8 +33,8 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/vloggerdeven/File-Share-Bot
-cd File-Share-Bot
+git clone https://github.com/DKBOTx/DKBOTx-FileStoreBot
+cd  DKBOTx-FileStoreBot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
