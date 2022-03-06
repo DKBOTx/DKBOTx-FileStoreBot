@@ -1,12 +1,12 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/vloggerdeven/File-share-bot
+  git clone https://github.com/DKBOTx/DKBOTx-FileStoreBot
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /File-share-bot
+  git clone $UPSTREAM_REPO /DKBOTx-FileStoreBot
 fi
-cd /File-share-bot
+cd /DKBOTx-FileStoreBot
 pip3 install -U -r requirements.txt
 echo "Starting Bot...."
 python3 bot.py
