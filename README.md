@@ -68,7 +68,7 @@ python3 main.py
 
 ### Extra Variables
 
-* `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/README.md#custom_caption'>fillings</a> for formatting (only for documents)
+* `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/DKBOTx/DKBOTx-FileStoreBot'>fillings</a> for formatting (only for documents)
 * `DISABLE_CHANNEL_BUTTON` Put True to Disable Channel Share Button, Default if False
 
 ### Fillings
@@ -87,7 +87,7 @@ python3 main.py
 
 
 ## Support   
-Join Our [DK BOTx](https://www.telegram.dog/dk_botx) For Support/Assistance And Our [dk [OFLINE]](https://www.telegram.dog/dk_assist_bot) For Updates.   
+Join Our [DK BOTx](https://www.telegram.dog/dk_botx) For Support/Assistance And Our [dk [OFFLINE]](https://www.telegram.dog/dk_assist_bot) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 
@@ -99,7 +99,7 @@ Report Bugs, Give Feature Requests There..
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-[FILE-SHARING-BOT](https://github.com/vloggerdeven/File-Share-Bot/) is Free Software: You can use, study share and improve it at your
+[FILE-SHARING-BOT](https://github.com/DKBOTx/DKBOTx-FileStoreBot) is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundation, either version 3 of the License, or
