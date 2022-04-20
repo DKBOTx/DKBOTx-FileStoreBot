@@ -1,4 +1,4 @@
-#(©)CodeXBotz
+#(©)DKBOTx
 import os
 import asyncio
 from pyrogram import Client, filters, __version__
