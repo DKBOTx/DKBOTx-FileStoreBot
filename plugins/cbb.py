@@ -10,7 +10,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
     data = query.data
     if data == "about":
         await query.message.edit_text(
-            text = f"<b>○ TEAM : <a href='https://t.me/dk_botx'>𝗗𝗞 𝗕𝗢𝗧𝘅</a>\n○ CREATOR : 𝖽𝗄 [𝖮𝖥𝖥𝖫𝖨𝖭𝖤]\n○ SUPPORT GROUP : @DKBOTxCHATS</b>",
+            text = f"<b>○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : 𝖽𝗄 [𝖮𝖥𝖥𝖫𝖨𝖭𝖤]\n○ 𝖳𝖾𝖺𝗆 :<a href='https://t.me/dk_botx'>𝗗𝗞 𝗕𝗢𝗧𝘅</a>\n○ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖢𝗁𝖺𝗍: @DKBOTxCHATS\n○ 𝖲𝗈𝗎𝗋𝖼𝖾 𝖢𝗈𝖽𝖾 : <a href='https://github.com/DKBOTx/DKBOTx-FileStoreBot'>𝖢𝗅𝗂𝖼𝗄 𝖧𝖾𝗋𝖾</a></b>",
             disable_web_page_preview = True,
             reply_markup = InlineKeyboardMarkup(
                 [
